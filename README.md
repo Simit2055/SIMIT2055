@@ -5,9 +5,16 @@
 Final-year Bachelor of Cyber Security student at the
 <b>Australian Data and Cyber Institute (ADCI)</b>, Perth, Western Australia
 
-I am a final-year Cybersecurity student at ADCI with a strong interest in understanding security from both the user and business perspective. Through my studies and capstone projects, I have developed practical experience in threat and risk assessment, supported by strong communication, leadership and analytical problem-solving skills.
+I am a final-year Cybersecurity student at ADCI with a strong interest in understanding 
+security from both the user and business perspective. Through my studies and capstone 
+projects, I have developed practical experience in threat and risk assessment, 
+supported by strong communication, leadership and analytical problem-solving skills.
 
-I value integrity, accessibility and continuous learning, and I have a strong interest in ethical hacking and understanding how attackers approach systems. My goal is to help organisations protect sensitive information, manage security risks and align security with business needs. I am particularly interested in building security practices that are practical, effective and easy for people to follow.
+I value integrity, accessibility and continuous learning, and I have a strong interest
+in ethical hacking and understanding how attackers approach systems. My goal is 
+to help organisations protect sensitive information, manage security risks and 
+align security with business needs. I am particularly interested in building 
+security practices that are practical, effective and easy for people to follow.
 
 🏆 Academic Achievement Award in Cyber Security, ADCI
 🤝 Member, Australian Computer Society (ACS)
